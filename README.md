@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <img align="right" width="150" height="150" src="https://avatars.githubusercontent.com/u/66057738?v=4" alt="Profile Picture">
 
-## **Venu Sarathy** 🌟
+# **Venu Sarathy** 🌟
 
 [![GitHub followers](https://img.shields.io/github/followers/venusarathy?label=Follow&style=social)](https://github.com/venusarathy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40venusarathy-blue)](https://www.linkedin.com/in/venusarathy/)
