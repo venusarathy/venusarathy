@@ -4,7 +4,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1>  🌟 Venu Sarathy </h1>
+      <h1> Venu Sarathy 🌟 </h1>
     </summary>
   </ul>
 </div>
