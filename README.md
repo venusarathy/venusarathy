@@ -10,8 +10,8 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/venusarathy?label=Follow&style=social)](https://github.com/venusarathy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40venusarathy-blue)](https://www.linkedin.com/in/venusarathy/)
-[![Website](https://img.shields.io/badge/Website-venusarathy.tech-orange)](https://venusarathy.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40venusarathy-blue)](https://www.linkedin.com/in/venuvijayan/)
+[![Website](https://img.shields.io/badge/Website-venusarathy.tech-orange)](https://vsty.me)
 
 
 ---
